@@ -1,5 +1,5 @@
-# postcode-plotter-python
-Takes a single list of postcodes in xlsx format, can be formatted correctly or all as one string with no spaces and plots them on a map of the UK
+# Postcode-plotter-python
+Takes a single list of postcodes in xlsx format, can be formatted correctly or all as one string with no spaces and plots them on a map of the UK. This was done as a request from a friend.
 
 - Choose an xsls file with post codes (UK) that are allocated one per cell (phone numbers can be included but are wiped out)
 - Run the command : `python3 main.py -f path/to/file`
